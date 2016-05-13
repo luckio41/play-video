@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Luckio\PlayVideo\conf\application.conf,C:\Users\Luckio\PlayVideo\target\scala-2.11\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Luckio\PlayVideo\conf\logback.xml,C:\Users\Luckio\PlayVideo\target\scala-2.11\classes\logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Luckio\PlayVideo\conf\routes,C:\Users\Luckio\PlayVideo\target\scala-2.11\classes\routes)[0m
